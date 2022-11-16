@@ -4,6 +4,9 @@ New machine setup
 
 ## Install
 
+**XCode Developer Tools**  
+- [ ] Install
+
 **Homebrew**  
 - [ ] Install
 
@@ -20,6 +23,9 @@ New machine setup
 
 **Fish Shell**  
 - [ ] Install
+- [ ] Install color scheme
+- [ ] Copy functions from `fish_functions` to `~/.config/fish/functions/`
 
 **git**
 - [ ] Install
+- [ ] Setup new ssh key
