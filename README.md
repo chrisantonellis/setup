@@ -5,21 +5,21 @@ New machine setup
 ## Install
 
 **Homebrew**  
-- [_] Install
+- [ ] Install
 
 **iTerm2**  
-- [_] Install
-- [_] Configure key mappings, natural text editing preset
+- [ ] Install
+- [ ] Configure key mappings, natural text editing preset
 
 **Docker**
-- [_] Install  
-- [_] Configure image repository
+- [ ] Install  
+- [ ] Configure image repository
 
 **VScode**  
-- [_] Install
+- [ ] Install
 
 **Fish Shell**  
-- [_] Install
+- [ ] Install
 
 **git**
-- [_] Install
+- [ ] Install
